@@ -24,4 +24,4 @@ My name is Pedro, and I'm from Brazil (🇧🇷). I've been working on a career 
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLemons&layout=compact)](https://github.com/PedroLemons/github-readme-stats)
+[![Top Langs](https://github-readme-stats-zeta-flax.vercel.app/api/top-langs/?username=PedroLemons&layout=compact)](https://github.com/PedroLemons/github-readme-stats)
