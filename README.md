@@ -21,7 +21,3 @@ My name is Pedro, and I'm from Brazil (🇧🇷). I've been working on a career 
   <a href="https://www.linkedin.com/in/pedroalemos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-  ##
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolemons&layout=compact)](https://github.com/pedrolemons/github-readme-stats)
