@@ -24,4 +24,4 @@ I've been working on a career transition and programming got my attention. Curre
 
 ##
 
-[![Top Langs](https://github-readme-stats-zeta-flax.vercel.app/api/top-langs/?username=PedroLemons&layout=compact)](https://github.com/PedroLemons/github-readme-stats)
+[![Top Langs](https://github-readme-stats-zeta-flax.vercel.app/api/top-langs/?username=PedroLemons&layout=compact)](https://github.com/PedroLemons/statshub)
