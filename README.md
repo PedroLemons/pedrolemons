@@ -1,6 +1,6 @@
-## "Bom dia, boa tarde, boa noite!" 👋
+## 👋 👋 👋
 
-My name is Pedro, and I'm from Brazil (🇧🇷). I've been working on a career transition and programming got my attention. Currently studying Systems Analysis and Development at uni.
+I've been working on a career transition and programming got my attention. Currently studying Systems Analysis and Development at uni.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
